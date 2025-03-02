@@ -79,3 +79,6 @@ elif category == "Area":
    if st.button("🔄 Convert"):
       result = area_convert(from_unit, to_unit, value)
       st.success(f"✅ {value} {from_unit} is equal to {result:.2f} {to_unit}")
+
+st.write("---------------------------------------------------------------------------------")
+st.write("Build with ❤ by Arsalan")
