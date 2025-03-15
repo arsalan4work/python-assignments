@@ -1,0 +1,16 @@
+[
+    {
+        "title": "kahani hai meri",
+        "author": "ali abdal",
+        "year": "2020",
+        "genre": "sad story",
+        "read": true
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Fiction",
+        "read": true
+    }
+]
