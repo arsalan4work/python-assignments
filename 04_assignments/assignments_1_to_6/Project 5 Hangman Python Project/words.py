@@ -1,0 +1,1 @@
+words = ["apple", "tiger", "ocean", "guitar", "python", "football", "doctor", "moon", "bicycle", "castle"]
