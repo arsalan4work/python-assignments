@@ -26,3 +26,5 @@ rect = Rectangle(5,10)
 
 # Print data
 print(f"Area of Rectangle is: {rect.area()}")
+
+# Output: Area of Rectangle is: 50
