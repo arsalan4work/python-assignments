@@ -18,3 +18,5 @@ class Teacher(Person):
 
 student = Teacher("Arsalan", "DSA")
 print(student.display())
+
+# Output: Teacher name: Arsalan, Subject: DSA
